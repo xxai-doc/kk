@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , coffeescript синтаксисі негізінде кейбір мүмкіндіктерді қосыңыз, [coffee_plus](./coffee_plus.md) қараңыз.
 
-* айнымалыны жариялау
+## айнымалыны жариялау
 
 ```
 + var1, var2
 ```
 
-* декларация белгісі
+## декларация белгісі
 
 `:$` [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) көмегімен пайдалануға арналған.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* жылдам импорт
+## жылдам импорт
 
 ```
 > zx/globals:
